@@ -1,0 +1,1 @@
+Gradient is designed to automate sorting files by type and moving them to specified folders from the source. For example, from "Downloads" to user-specified folders. The report is written to the MySQL database table. Because I have some problems with the size of the Downloads folder and the mess that is going on there. The program was created for personal use.
